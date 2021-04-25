@@ -1,0 +1,16 @@
+
+@
+java:S1659"%Declare "numeros" on a separate line.(ÀÕàÇùÿÿÿÿ
+B
+java:S1659"'Declare "positivos" on a separate line.(ÀÕàÇùÿÿÿÿ
+B
+java:S1659"'Declare "negativos" on a separate line.(ÀÕàÇùÿÿÿÿ
+>
+java:S1659"#Declare "zeros" on a separate line.(ÀÕàÇùÿÿÿÿ
+=
+java:S1659""Declare "cont" on a separate line.(ÀÕàÇùÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(Ë£îîÿÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(•Úî®øÿÿÿÿ
+N	java:S106""9Replace this use of System.out or System.err by a logger.(•¡ŒÖ
+S	java:S106#"9Replace this use of System.out or System.err by a logger.(¾²°¢ûÿÿÿÿ
+N	java:S106$"9Replace this use of System.out or System.err by a logger.(À©òñ

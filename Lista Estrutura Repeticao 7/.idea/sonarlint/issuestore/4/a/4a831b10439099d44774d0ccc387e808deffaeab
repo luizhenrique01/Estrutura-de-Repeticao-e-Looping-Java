@@ -1,0 +1,26 @@
+
+U	java:S106+"9Replace this use of System.out or System.err by a logger.(•¡ŒÖ8·±˜Œ/
+U	java:S106*"9Replace this use of System.out or System.err by a logger.(ƒğø8·±˜Œ/
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(•Úî®øÿÿÿÿ8·±˜Œ/
+]	java:S125."<This block of commented-out lines of code should be removed.(ª˜¼¼ÿÿÿÿÿ8·±˜Œ/
+S
+java:S1659"1Declare "porcentagemPositivo" on a separate line.(ë¬áüÿÿÿÿ8·±˜Œ/
+E
+java:S1659"#Declare "zeros" on a separate line.(ë¬áüÿÿÿÿ8·±˜Œ/
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(Ë£îîÿÿÿÿÿ8·±˜Œ/
+Z	java:S106)"9Replace this use of System.out or System.err by a logger.(ûÀ±Ÿùÿÿÿÿ8·±˜Œ/
+I
+java:S1659"'Declare "positivos" on a separate line.(ë¬áüÿÿÿÿ8·±˜Œ/
+Z	java:S106,"9Replace this use of System.out or System.err by a logger.(¾²°¢ûÿÿÿÿ8·±˜Œ/
+U	java:S106-"9Replace this use of System.out or System.err by a logger.(À©òñ8·±˜Œ/
+Z	java:S106("9Replace this use of System.out or System.err by a logger.(µåÏßùÿÿÿÿ8·±˜Œ/
+S
+java:S1659"1Declare "porcentagemNegativo" on a separate line.(ë¬áüÿÿÿÿ8·±˜Œ/
+D
+java:S1659""Declare "cont" on a separate line.(ë¬áüÿÿÿÿ8·±˜Œ/
+G
+java:S1659"%Declare "numeros" on a separate line.(ë¬áüÿÿÿÿ8·±˜Œ/
+I
+java:S1659"'Declare "negativos" on a separate line.(ë¬áüÿÿÿÿ8·±˜Œ/
+O
+java:S1659"-Declare "porcentagemZero" on a separate line.(ë¬áüÿÿÿÿ8·±˜Œ/
